@@ -61,7 +61,7 @@ bool readRequest(WiFiClient& client) {
   return false;
 }
 
-/* prepare JSON data as example  :
+/* prepare JSON data eg. :
 
 {
   "temp": [
